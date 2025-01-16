@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     //data is stored in other continent
     //it takes sometime to fetch
-    const API_KEY = "1f202cf08c1a4a7e367f7dd65cebe2d0"
+    const API_KEY = "1f202cf08c1a4a7e367f7ddsvergrevdvawgasdd65cebe2d0"
     console.log("Working fine....")
     getWeatherBtn.addEventListener("click", async () => {
         const inputText = cityNameInput.value.trim();
