@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let displayDescrption = document.getElementById("description")
     let displayError = document.getElementById("error-message")
 
-    const API_KEY = "f202cf08c1a4a7e367f7dd65cebe2d0"
+    const API_KEY = "f202cc1a4a7e367f7dd65cebedsged0"
     console.log("working fine...")
 
     getWeatherBtn.addEventListener('click', async () => {
